@@ -1,0 +1,8 @@
+*
+
+# except...
+
+!.gitignore
+!*.h
+!*.cpp
+
